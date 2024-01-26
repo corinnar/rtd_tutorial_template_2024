@@ -1,6 +1,5 @@
 QUIZ
 -----
-<a href="http://some.url">blah</a>
 <a href="https://forms.office.com/e/NsGUEEcJ7h?origin=lprLink>Test your knowledge: please take the quiz</a>
 
 
