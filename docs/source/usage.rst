@@ -1,7 +1,7 @@
 QUIZ
 -----
 
-Now test your knoeledge by taking this short test at `test`_.
+Now test your knowledge by taking this short  `test`_. 
 
 .. _test: https://forms.office.com/e/NsGUEEcJ7h?origin=lprLink/
 
