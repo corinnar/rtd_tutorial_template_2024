@@ -1,6 +1,9 @@
 QUIZ
 -----
-<a href="https://forms.office.com/e/NsGUEEcJ7h?origin=lprLink>Test your knowledge: please take the quiz</a>
+
+Now test your knoeledge by taking this short test at `test`_.
+
+.. _test: https://forms.office.com/e/NsGUEEcJ7h?origin=lprLink/
 
 
 Usage
